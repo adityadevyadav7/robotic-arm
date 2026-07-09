@@ -1,43 +1,75 @@
-# Firmware Progress
+# Serial Commands
 
-## V0.1
+Bxxx
 
-Servo Initialization
+Move Base
 
-Attach all servos
+Example
 
-Move to default position
+B120
 
-## V0.2
+------------------
 
-Smooth Motion Engine
+Sxxx
 
-Current Position
+Move Shoulder
 
-Target Position
+S90
 
-1 Degree Movement
+------------------
 
-## V0.3
+Exxx
 
-Serial Communication
+Move Elbow
 
-Command Parser
+E70
 
-Input Validation
+------------------
 
-Servo Commands
+Wxxx
 
-## V0.4
+Move Wrist
 
-HOME Command
+W110
 
-## V0.5
+------------------
 
-STOP Command
+Gxxx
 
-Speed Control
+Move Gripper
 
-## V0.6
+G45
+
+------------------
+
+HOME
+
+Move Robot To Home Position
+
+------------------
+
+STOP
+
+Stop All Servos Immediately
+
+------------------
+
+Vxx
+
+Change Speed
+
+Example
+
+V10
+
+V20
+
+V40
+
+------------------
 
 Position Feedback
+
+Arduino sends
+
+P90,90,90,90,60
