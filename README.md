@@ -50,6 +50,14 @@ STOP
 
 V15
 
+SAVE
+
+UNDO
+
+PLAY
+
+CLEAR
+
 
 ## Future Plans
 
