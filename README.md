@@ -17,6 +17,11 @@ It's a 5-DOF Robotic Arm built using Arduino Uno and Raspberry Pi 5 with smooth 
 
  Position Feedback
 
+ Teach Mode
+
+ Replay
+
+
 ## Hardware
 
 Arduino Uno
@@ -45,11 +50,8 @@ STOP
 
 V15
 
+
 ## Future Plans
-
-Teach Mode
-
-Replay
 
 Python API
 
