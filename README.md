@@ -41,11 +41,10 @@ It's a 5-DOF Robotic Arm built using Arduino Uno , ESP8266 and Raspberry Pi 5 wi
 
 INTRODUCTION:
 
-[▶ Watch the Demo](media/videos/introducing%20robotic-arm.mp4)
-
+[▶ Watch the Demo](media/videos/introducing-robotic-arm.mp4)
 HOME EXPLAINED:
 
-[▶ Watch the Demo](media/videos/home%20explained.mp4)
+[▶ Watch the Demo](media/videos/home-explained.mp4)
 
 DIRECT COMMAND USING SERIAL MONITOR VERSION (WITHOUT ESP8266 ):
 
